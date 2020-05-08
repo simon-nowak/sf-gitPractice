@@ -72,8 +72,4 @@
         <name>Git_practice</name>
         <type>CustomApplication</type>
     </appMenuItems>
-    <appMenuItems>
-        <name>contact</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
 </AppMenu>
