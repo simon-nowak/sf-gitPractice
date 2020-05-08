@@ -1,0 +1,21 @@
+# exclude local config file used in force code
+\.forceCode/
+\.vscode/
+\.sfdx/
+force.json
+sfdx-project.json
+\.vim-force\.com/
+
+**.code-workspace
+
+
+# exclude local config file used in IntelliJ
+**/IlluminatedCloud/
+/SF-SalesforceGroupeSEB.iml
+/src/package.xml
+
+
+# for prettier
+node_modules/
+package.json
+package-lock.json
