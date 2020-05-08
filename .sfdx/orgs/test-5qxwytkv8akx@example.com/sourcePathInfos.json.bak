@@ -1,0 +1,92 @@
+[
+    [
+        "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1588950590504,
+            "changeTime": 1588950766564,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1588950590505,
+            "changeTime": 1588950766564,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1588950590505,
+            "changeTime": 1588950766564,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1588950590505,
+            "changeTime": 1588950766563,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1588950604652,
+            "changeTime": 1588950766563,
+            "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\simon.nowak\\Documents\\_orgPerso\\sf-gitPractice",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1588951726606,
+            "changeTime": 1588951726606,
+            "contentHash": "1f3329026c6629e62dff390bd5f7d67abeb030b2",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

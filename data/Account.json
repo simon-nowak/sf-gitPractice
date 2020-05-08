@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Awesome company",
+            "BillingCity": "Lyon",
+            "BillingCountry": "France"
+        }
+    ]
+}

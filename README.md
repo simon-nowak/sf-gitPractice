@@ -1,2 +1,9 @@
-# sf-gitPractice
-For practicing git with salesforce
+# Salesforce App
+
+## Dev, Build and Test
+
+## Resources
+
+## Description of Files and Directories
+
+## Issues

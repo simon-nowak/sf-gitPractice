@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>mandatoryInfo</fullName>
+    <active>true</active>
+    <description>Contact must have email or phone</description>
+    <errorConditionFormula>AND(ISBLANK(Email),ISBLANK(Phone))</errorConditionFormula>
+    <errorMessage>Contact must have at least email or phone</errorMessage>
+</ValidationRule>
