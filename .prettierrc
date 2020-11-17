@@ -1,0 +1,33 @@
+{
+  "tabWidth": 4,
+  "printWidth": 100,
+  "trailingComma": "none",
+  "overrides": [
+    {
+      "files": ".prettierrc",
+      "options": {
+        "parser": "json",
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "**/lwc/**/*.html",
+      "options": {
+        "parser": "lwc"
+      }
+    },
+    {
+      "files": "*.{cmp,page,component}",
+      "options": {
+        "parser": "html"
+      }
+    },
+    {
+      "files": ["*.yml", "*.json"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ],
+  "apexInsertFinalNewline": false
+}
