@@ -5,8 +5,26 @@
                 "type": "Account",
                 "referenceId": "AccountRef1"
             },
-            "Name": "Awesome company",
+            "Name": "Lyon Administrateur Groupe",
             "BillingCity": "Lyon",
+            "BillingCountry": "France"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Pangolin Industries",
+            "BillingCity": "Paris",
+            "BillingCountry": "France"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Tractopelle Corporation",
+            "BillingCity": "Marseille",
             "BillingCountry": "France"
         }
     ]
