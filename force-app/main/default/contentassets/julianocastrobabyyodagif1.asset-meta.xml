@@ -2,7 +2,7 @@
 <ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
     <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
     <language>en_US</language>
-    <masterLabel>julianocastrobabyyodagif</masterLabel>
+    <masterLabel>julianocastrobabyyodagif1</masterLabel>
     <relationships>
         <organization>
             <access>VIEWER</access>
@@ -11,7 +11,7 @@
     <versions>
         <version>
             <number>1</number>
-            <pathOnClient>juliano-castro-babyyoda-gif.gif</pathOnClient>
+            <pathOnClient>julianocastrobabyyodagif.jpg</pathOnClient>
         </version>
     </versions>
 </ContentAsset>
