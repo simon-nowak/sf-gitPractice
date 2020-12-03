@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CanNotBeEmpty</fullName>
+    <active>true</active>
+    <description>The phone number must be filled in order to create a record.</description>
+    <errorConditionFormula>ISBLANK(Phone)</errorConditionFormula>
+    <errorMessage>Le numéro de téléphone doit être renseigné</errorMessage>
+</ValidationRule>
