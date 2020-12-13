@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>CityMandatory</fullName>
-    <active>true</active>
-    <description>The city is mandatory</description>
-    <errorConditionFormula>ISBLANK( BillingCity )</errorConditionFormula>
-    <errorDisplayField>BillingCity</errorDisplayField>
-    <errorMessage>The city is mandatory</errorMessage>
-</ValidationRule>
