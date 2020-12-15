@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Description</fullName>
-    <description>Description de Simon</description>
-    <inlineHelpText>Description de simon</inlineHelpText>
+    <description>Ooops someone forgot to add a description. Here it is.</description>
     <securityClassification>Confidential</securityClassification>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>
